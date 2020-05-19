@@ -43,7 +43,7 @@
 	<header class="App-header">
 		<img src="/logo.svg" class="App-logo" alt="logo" />
 		<p>
-			Edit <code>src/App.svelte</code> and save to reload.
+			Edit <code>src/App.svelte</code> .
 		</p>
 		<a
 			class="App-link"
